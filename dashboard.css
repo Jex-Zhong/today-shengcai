@@ -1,0 +1,40 @@
+:root { --paper:#f4efe7; --ink:#28231e; --muted:#746b62; --line:#ded5c9; --card:#fffdf9; --ai:#9b5a35; --content:#4f6f62; --commerce:#8c6538; --shadow:0 10px 24px rgba(58,43,29,.07); }
+* { box-sizing:border-box; }
+html { background:var(--paper); }
+body { margin:0; color:var(--ink); background:linear-gradient(rgba(255,255,255,.28),rgba(255,255,255,.28)),var(--paper); font-family:Georgia,"Noto Serif SC","Songti SC",serif; line-height:1.65; }
+a { color:inherit; }
+.page { max-width:1240px; margin:0 auto; padding:38px 28px 30px; }
+.masthead { border-bottom:1px solid var(--line); padding-bottom:25px; }
+.eyebrow { color:var(--muted); font:700 12px/1.2 Arial,sans-serif; letter-spacing:.16em; text-transform:uppercase; }
+h1 { margin:10px 0 15px; font-size:clamp(2.35rem,6vw,4.8rem); line-height:.98; letter-spacing:-.06em; }
+.controls { display:flex; flex-wrap:wrap; align-items:center; gap:9px; color:var(--muted); font:600 13px/1.4 Arial,sans-serif; }
+select, button { border:1px solid var(--line); border-radius:4px; padding:8px 10px; color:var(--ink); background:var(--card); font:600 13px Arial,sans-serif; cursor:pointer; }
+select:hover, button:hover, select:focus-visible, button:focus-visible { border-color:var(--ai); outline:2px solid rgba(155,90,53,.35); outline-offset:2px; }
+button:disabled { cursor:not-allowed; opacity:.45; }
+.date { color:var(--muted); font:600 13px/1.4 Arial,sans-serif; letter-spacing:.08em; }
+.issue-meta { display:flex; flex-wrap:wrap; gap:7px 18px; margin-top:8px; color:var(--muted); font:12px/1.45 Arial,sans-serif; }
+.issue-meta span { display:inline-block; }
+.intro { max-width:760px; margin:19px 0 23px; font-size:1.05rem; color:#4d443b; }
+.overview { display:flex; flex-wrap:wrap; gap:8px; }
+.overview > span, .overview > a { border:1px solid var(--line); border-radius:999px; padding:5px 11px; color:#62594f; background:rgba(255,253,249,.54); font:12px/1.4 Arial,sans-serif; text-decoration:none; }
+.overview a:hover, .overview a:focus-visible { border-color:currentColor; outline:2px solid rgba(155,90,53,.35); outline-offset:2px; }
+main { padding-top:33px; }
+.empty-state { margin:0 0 40px; padding:24px; border:1px dashed var(--line); color:var(--muted); background:rgba(255,253,249,.6); text-align:center; }
+.section { margin-bottom:43px; }
+.section-heading { display:flex; align-items:baseline; justify-content:space-between; gap:18px; margin-bottom:15px; border-bottom:2px solid currentColor; padding-bottom:8px; }
+.section-heading h2 { margin:0; font-size:1.6rem; letter-spacing:-.025em; }
+.section-heading p { margin:0; color:#5d5146; font:12px/1.3 Arial,sans-serif; }
+.section[data-section="AI"] { color:var(--ai); } .section[data-section="内容"] { color:var(--content); } .section[data-section="电商"] { color:var(--commerce); }
+.cards { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:16px; }
+.article-card { display:flex; min-width:0; flex-direction:column; color:var(--ink); border:1px solid var(--line); border-top:4px solid currentColor; border-radius:4px; padding:18px 18px 16px; background:var(--card); box-shadow:var(--shadow); }
+.meta { display:flex; justify-content:space-between; gap:12px; color:var(--muted); font:12px/1.4 Arial,sans-serif; } .author { color:#4d443b; font-weight:700; }
+.tags { margin:10px 0 0; color:var(--muted); font:11px/1.55 Arial,sans-serif; }
+.article-card h3 { margin:12px 0 10px; color:var(--ink); font-size:1.18rem; line-height:1.4; letter-spacing:-.02em; }
+.reason { margin:0 0 10px; color:#54473b; font-size:.91rem; font-weight:700; line-height:1.55; } .summary { flex:1; margin:0; color:#62584e; font-size:.9rem; line-height:1.7; }
+.stats { display:flex; flex-wrap:wrap; gap:7px 11px; margin:15px 0 16px; padding-top:11px; border-top:1px dashed var(--line); color:var(--muted); font:11px/1.35 Arial,sans-serif; }
+.read-link { align-self:flex-start; border-bottom:1px solid currentColor; color:inherit; font:700 12px/1.5 Arial,sans-serif; text-decoration:none; }
+.read-link:hover, .read-link:focus-visible { border-bottom-width:2px; outline:2px solid currentColor; outline-offset:3px; }
+footer { margin-top:7px; border-top:1px solid var(--line); padding-top:17px; color:var(--muted); font:11px/1.65 Arial,sans-serif; } footer p { margin:3px 0; }
+@media (min-width:1051px) { .cards { grid-template-columns:repeat(3,minmax(0,1fr)); } }
+@media (min-width:761px) and (max-width:1050px) { .cards { grid-template-columns:repeat(2,minmax(0,1fr)); } }
+@media (max-width:760px) { .page { padding:25px 16px 24px; } .masthead { padding-bottom:20px; } .intro { font-size:.98rem; } main { padding-top:25px; } .section { margin-bottom:32px; } .section-heading { align-items:flex-start; flex-direction:column; gap:2px; } .cards { grid-template-columns:1fr; gap:13px; } .article-card { padding:16px; } .article-card h3 { font-size:1.12rem; } }

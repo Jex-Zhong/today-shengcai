@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>今日生财｜历史精选</title>
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%230d2238'/%3E%3Cpath d='M18 19h28v7H18zm0 13h21v7H18zm0 13h28v7H18z' fill='%23f0b35d'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="dashboard.css">
+  <script src="issues.js" defer></script>
+  <script src="dashboard.js" defer></script>
+</head>
+<body>
+  <div class="page">
+    <header class="masthead">
+      <div class="eyebrow">Shengcai daily reading brief</div>
+      <h1>今日生财</h1>
+      <div class="controls" aria-label="历史期次控制">
+        <label for="issue-date">选择日期</label>
+        <select id="issue-date"></select>
+        <button type="button" id="previous-issue">上一期</button>
+        <button type="button" id="next-issue">下一期</button>
+      </div>
+      <p class="date" id="issue-date-label"></p>
+      <div class="issue-meta" aria-label="本期数据元信息">
+        <span id="time-range"></span>
+        <span id="generated-at"></span>
+      </div>
+      <p class="intro">从 AI 工作流、内容情报到电商落地，挑出值得马上打开的生财原帖：看清可复用的方法，也标注还需要核验的边界。</p>
+      <nav class="overview" aria-label="按栏目浏览精选">
+        <a href="#ai">AI · <span data-count="AI">3</span> 篇</a>
+        <a href="#content">内容 · <span data-count="内容">3</span> 篇</a>
+        <a href="#ecommerce">电商 · <span data-count="电商">3</span> 篇</a>
+        <span id="overview-total">9 篇概览</span>
+      </nav>
+    </header>
+    <main>
+      <p id="empty-state" class="empty-state" hidden>暂无可用期次，稍后再来查看。</p>
+      <section class="section" id="ai" data-section="AI"><div class="section-heading"><h2>AI</h2><p>工具、产品与新获客触点</p></div><div class="cards"></div></section>
+      <section class="section" id="content" data-section="内容"><div class="section-heading"><h2>内容</h2><p>信息差、案例与可复用线索</p></div><div class="cards"></div></section>
+      <section class="section" id="ecommerce" data-section="电商"><div class="section-heading"><h2>电商</h2><p>平台变化、行业落地与跨境配套</p></div><div class="cards"></div></section>
+    </main>
+    <footer>
+      <p>数据来源：生财原帖及公开统计。摘要由 AI 基于原帖生成，仅作阅读导航；请以原帖内容为准。</p>
+    </footer>
+  </div>
+</body>
+</html>
