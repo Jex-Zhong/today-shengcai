@@ -1,7 +1,8 @@
 (function (root) {
   'use strict';
   var DATE_RE = /^\d{4}-\d{2}-\d{2}$/;
-  var SECTION_NAMES = ['AI', '内容', '电商'];
+  var YIREN_VISIBLE_LIMIT = 5;
+  var SECTION_NAMES = ['亦仁', 'AI', '内容', '电商'];
   function validDate(value) {
     if (typeof value !== 'string' || !DATE_RE.test(value)) return false;
     var parts = value.split('-').map(Number);
@@ -40,7 +41,16 @@
       return href || '';
     }
   }
-  root.TODAY_SHENGCAI_DASHBOARD_API = { sortIssues: sortIssues, resolveIssueDate: resolveIssueDate, getAdjacentDates: getAdjacentDates, buildDateUrl: buildDateUrl };
+  function getYirenView(articles, expanded) {
+    var items = Array.isArray(articles) ? articles : [];
+    var isExpanded = items.length > YIREN_VISIBLE_LIMIT && expanded === true;
+    return {
+      visible: (isExpanded ? items : items.slice(0, YIREN_VISIBLE_LIMIT)).slice(),
+      remaining: isExpanded ? 0 : Math.max(0, items.length - YIREN_VISIBLE_LIMIT),
+      expanded: isExpanded
+    };
+  }
+  root.TODAY_SHENGCAI_DASHBOARD_API = { sortIssues: sortIssues, resolveIssueDate: resolveIssueDate, getAdjacentDates: getAdjacentDates, buildDateUrl: buildDateUrl, getYirenView: getYirenView };
   if (typeof document === 'undefined') return;
   function isUsableIssue(issue) { return issue && validDate(issue.date) && issue.sections && typeof issue.sections === 'object'; }
   var rawIssues = Array.isArray(root.TODAY_SHENGCAI_ISSUES) ? root.TODAY_SHENGCAI_ISSUES : [];
@@ -48,6 +58,7 @@
   var select = document.getElementById('issue-date');
   var previous = document.getElementById('previous-issue');
   var next = document.getElementById('next-issue');
+  var yirenExpanded = false;
   function text(tag, value, className) {
     var element = document.createElement(tag);
     if (className) element.className = className;
@@ -113,23 +124,46 @@
     articles.forEach(function (article, index) { cards.append(renderCard(article, index)); total.value += 1; });
     var count = document.querySelector('[data-count="' + name + '"]'); if (count) count.textContent = String(articles.length);
   }
+  function renderYiren(issue, total) {
+    var articles = Array.isArray(issue.sections['亦仁']) ? issue.sections['亦仁'] : [];
+    var view = getYirenView(articles, yirenExpanded);
+    var section = document.getElementById('yiren');
+    var cards = document.getElementById('yiren-cards');
+    var toggle = document.getElementById('yiren-toggle');
+    section.hidden = false;
+    cards.replaceChildren();
+    view.visible.forEach(function (article, index) { cards.append(renderCard(article, index)); });
+    total.value += articles.length;
+    document.querySelector('[data-count="亦仁"]').textContent = String(articles.length);
+    document.getElementById('yiren-total').textContent = '全部更新 · ' + articles.length + ' 篇';
+    document.getElementById('yiren-empty').hidden = articles.length !== 0;
+    toggle.hidden = articles.length <= YIREN_VISIBLE_LIMIT;
+    toggle.textContent = view.expanded ? '收起' : '展开更多（' + view.remaining + ' 篇）';
+    toggle.setAttribute('aria-expanded', String(view.expanded));
+  }
   function renderEmpty() {
+    yirenExpanded = false;
     select.replaceChildren(); select.disabled = true; previous.disabled = true; next.disabled = true;
     document.getElementById('issue-date-label').textContent = ''; document.getElementById('time-range').textContent = ''; document.getElementById('generated-at').textContent = '';
     document.getElementById('overview-total').textContent = '0 篇概览'; document.getElementById('empty-state').hidden = false;
     document.querySelectorAll('.overview > a').forEach(function (link) { link.hidden = true; });
     SECTION_NAMES.forEach(function (name) { document.querySelector('[data-section="' + name + '"]').hidden = true; var count = document.querySelector('[data-count="' + name + '"]'); if (count) count.textContent = '0'; });
+    document.getElementById('yiren-cards').replaceChildren();
+    document.getElementById('yiren-total').textContent = '全部更新 · 0 篇';
+    document.getElementById('yiren-empty').hidden = true;
+    var toggle = document.getElementById('yiren-toggle'); toggle.hidden = true; toggle.setAttribute('aria-expanded', 'false'); toggle.textContent = '';
     document.title = '今日生财｜暂无可用期次';
   }
   function render(date, updateUrl) {
     var issue = sorted.filter(function (item) { return item.date === date; })[0];
     if (!issue) return renderEmpty();
+    yirenExpanded = false;
     var adjacent = getAdjacentDates(sorted, date); select.disabled = false; document.getElementById('empty-state').hidden = true;
     document.querySelectorAll('.overview > a').forEach(function (link) { link.hidden = false; }); select.value = date;
     document.getElementById('issue-date-label').textContent = fmtDate(date); previous.disabled = !adjacent.previous; next.disabled = !adjacent.next;
     document.getElementById('time-range').textContent = '北京时间 ' + fmtTime(issue.windowStart) + '–' + fmtTime(issue.windowEnd) + '。';
     document.getElementById('generated-at').textContent = '成功更新时间：' + fmtTime(issue.generatedAt) + '。';
-    var total = { value: 0 }; SECTION_NAMES.forEach(function (name) { renderSection(issue, name, total); });
+    var total = { value: 0 }; renderYiren(issue, total); SECTION_NAMES.slice(1).forEach(function (name) { renderSection(issue, name, total); });
     document.getElementById('overview-total').textContent = total.value + ' 篇概览'; document.title = '今日生财｜' + date + ' 精选阅读';
     if (updateUrl) history.pushState({}, '', buildDateUrl(date, location.href));
   }
@@ -140,5 +174,12 @@
   select.addEventListener('change', function () { render(select.value, true); });
   previous.addEventListener('click', function () { var adjacent = getAdjacentDates(sorted, select.value); if (adjacent.previous) render(adjacent.previous, true); });
   next.addEventListener('click', function () { var adjacent = getAdjacentDates(sorted, select.value); if (adjacent.next) render(adjacent.next, true); });
+  document.getElementById('yiren-toggle').addEventListener('click', function () {
+    var issue = sorted.filter(function (item) { return item.date === select.value; })[0];
+    if (!issue) return;
+    yirenExpanded = !yirenExpanded;
+    renderYiren(issue, { value: 0 });
+    if (!yirenExpanded) document.getElementById('yiren').scrollIntoView({ block: 'start' });
+  });
   root.addEventListener('popstate', function () { var requestedDate; try { requestedDate = new URL(location.href).searchParams.get('date'); } catch (_) { requestedDate = null; } var resolved = resolveIssueDate(sorted, requestedDate); if (resolved && requestedDate !== resolved) history.replaceState({}, '', buildDateUrl(resolved, location.href)); render(resolved, false); });
 }(typeof globalThis !== 'undefined' ? globalThis : window));

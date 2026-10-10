@@ -27,6 +27,7 @@
       </div>
       <p class="intro">从 AI 工作流、内容情报到电商落地，挑出值得马上打开的生财原帖：看清可复用的方法，也标注还需要核验的边界。</p>
       <nav class="overview" aria-label="按栏目浏览精选">
+        <a href="#yiren">亦仁 · <span data-count="亦仁">0</span> 篇</a>
         <a href="#ai">AI · <span data-count="AI">3</span> 篇</a>
         <a href="#content">内容 · <span data-count="内容">3</span> 篇</a>
         <a href="#ecommerce">电商 · <span data-count="电商">3</span> 篇</a>
@@ -35,6 +36,12 @@
     </header>
     <main>
       <p id="empty-state" class="empty-state" hidden>暂无可用期次，稍后再来查看。</p>
+      <section class="section yiren-section" id="yiren" data-section="亦仁">
+        <div class="section-heading"><div><p class="yiren-kicker">Founder updates</p><h2>亦仁专栏</h2></div><p id="yiren-total">全部更新 · 0 篇</p></div>
+        <p id="yiren-empty" class="yiren-empty" hidden>本期亦仁暂无更新</p>
+        <div class="cards" id="yiren-cards"></div>
+        <button type="button" id="yiren-toggle" aria-expanded="false" aria-controls="yiren-cards" hidden></button>
+      </section>
       <section class="section" id="ai" data-section="AI"><div class="section-heading"><h2>AI</h2><p>工具、产品与新获客触点</p></div><div class="cards"></div></section>
       <section class="section" id="content" data-section="内容"><div class="section-heading"><h2>内容</h2><p>信息差、案例与可复用线索</p></div><div class="cards"></div></section>
       <section class="section" id="ecommerce" data-section="电商"><div class="section-heading"><h2>电商</h2><p>平台变化、行业落地与跨境配套</p></div><div class="cards"></div></section>
