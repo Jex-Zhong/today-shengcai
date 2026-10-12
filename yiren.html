@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="亦仁文章归档，支持搜索、月份筛选和渐进加载。">
+  <title>亦仁文章库 · 今日看板</title>
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%230d2238'/%3E%3Cpath d='M18 19h28v7H18zm0 13h21v7H18zm0 13h28v7H18z' fill='%23f0b35d'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="yiren.css">
+</head>
+<body>
+  <header class="archive-header">
+    <div class="header-inner">
+      <div>
+        <p class="eyebrow">Founder archive</p>
+        <h1>亦仁文章库</h1>
+        <p id="yiren-total" class="archive-total">文章总数 · 0 篇</p>
+      </div>
+      <a class="back-link" href="index.html">返回今日看板</a>
+    </div>
+  </header>
+
+  <main class="archive-main">
+    <section class="controls" aria-label="文章筛选">
+      <label class="field" for="yiren-search">
+        <span>搜索文章</span>
+        <input id="yiren-search" type="search" placeholder="搜索标题、摘要或标签" autocomplete="off">
+      </label>
+      <label class="field month-field" for="yiren-month">
+        <span>发布月份</span>
+        <select id="yiren-month">
+          <option value="">全部月份</option>
+        </select>
+      </label>
+    </section>
+
+    <p id="yiren-results" class="results" role="status" aria-live="polite">0 条结果</p>
+    <div id="yiren-error" class="state state-error" role="alert" hidden>文章数据缺失或格式不正确，请稍后重试。</div>
+    <div id="yiren-empty" class="state" hidden>暂无文章。</div>
+    <ol id="yiren-list" class="archive-list" aria-label="亦仁文章列表"></ol>
+    <button id="yiren-load-more" class="load-more" type="button" hidden>加载更多</button>
+  </main>
+
+  <script src="yiren-posts.js"></script>
+  <script src="yiren.js"></script>
+</body>
+</html>

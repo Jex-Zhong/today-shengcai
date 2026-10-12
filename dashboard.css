@@ -29,9 +29,8 @@ main { padding-top:33px; }
 .yiren-section .section-heading .yiren-kicker { margin:0 0 5px; color:var(--yiren); font:700 11px/1.35 Arial,sans-serif; letter-spacing:.12em; text-transform:uppercase; }
 .yiren-section .section-heading > p { color:#6b432d; }
 .yiren-empty { margin:0; padding:18px; border:1px dashed #c7a487; border-radius:4px; color:#664a38; background:#fffaf3; text-align:center; }
-#yiren-toggle { display:block; margin:20px auto 0; padding:9px 18px; border:1px solid var(--yiren); border-radius:999px; color:var(--yiren); background:#fffaf3; }
-#yiren-toggle:hover, #yiren-toggle:focus-visible { border-color:#673319; color:#673319; background:#fff5e9; outline:2px solid #854626; outline-offset:3px; }
-#yiren-toggle[hidden] { display:none; }
+.yiren-archive-link { display:block; width:max-content; max-width:100%; min-height:44px; margin:20px auto 0; padding:9px 18px; border:1px solid var(--yiren); border-radius:999px; color:var(--yiren); background:#fffaf3; font:600 13px/24px Arial,sans-serif; text-align:center; text-decoration:none; }
+.yiren-archive-link:hover, .yiren-archive-link:focus-visible { border-color:#673319; color:#673319; background:#fff5e9; outline:2px solid var(--yiren); outline-offset:3px; }
 .section[data-section="AI"] { color:var(--ai); } .section[data-section="内容"] { color:var(--content); } .section[data-section="电商"] { color:var(--commerce); }
 .cards { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:16px; }
 .article-card { display:flex; min-width:0; flex-direction:column; color:var(--ink); border:1px solid var(--line); border-top:4px solid currentColor; border-radius:4px; padding:18px 18px 16px; background:var(--card); box-shadow:var(--shadow); }
