@@ -66,10 +66,10 @@
     return months;
   }
 
-  function isAllowedArticleUrl(value) {
-    var prefix = 'https://scys.com/articleDetail/';
-    var url = String(value == null ? '' : value);
-    return url.indexOf(prefix) === 0 && url.length > prefix.length;
+  function isAllowedArticleUrl(value, id) {
+    if (typeof value !== 'string' || typeof id !== 'string') return false;
+    var match = /^https:\/\/scys\.com\/articleDetail\/(xq_topic|forum_topic)\/([0-9]+)$/.exec(value);
+    return match !== null && match[0] === value && match[2] === id;
   }
 
   function isNonEmpty(value) {
@@ -87,7 +87,7 @@
     if (!['reads', 'likes', 'favorites', 'coins'].every(function (name) {
       return Number.isInteger(post.stats[name]) && post.stats[name] >= 0;
     })) return false;
-    return isAllowedArticleUrl(post.url);
+    return isAllowedArticleUrl(post.url, post.id);
   }
 
   root.TODAY_SHENGCAI_YIREN_API = {
@@ -122,9 +122,8 @@
     while (element.firstChild) element.removeChild(element.firstChild);
   }
 
-  function safeArticleUrl(value) {
-    var url = String(value == null ? '' : value);
-    return isAllowedArticleUrl(url) ? url : '';
+  function safeArticleUrl(value, id) {
+    return isAllowedArticleUrl(value, id) ? value : '';
   }
 
   function statValue(value) {
@@ -160,7 +159,7 @@
     });
     card.appendChild(statsList);
 
-    var url = safeArticleUrl(item.url);
+    var url = safeArticleUrl(item.url, item.id);
     if (url) {
       var link = appendTextElement(card, 'a', 'post-link', '阅读原帖');
       link.href = url;

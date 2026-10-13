@@ -16,7 +16,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 0,
       "coins": 0
     },
-    "url": "https://scys.com/articleDetail/45548558128111228"
+    "url": "https://scys.com/articleDetail/xq_topic/45548558128111228"
   },
   {
     "id": "22258228184525511",
@@ -35,7 +35,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 0,
       "coins": 0
     },
-    "url": "https://scys.com/articleDetail/22258228184525511"
+    "url": "https://scys.com/articleDetail/xq_topic/22258228184525511"
   },
   {
     "id": "22258228411841221",
@@ -54,7 +54,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 6,
       "coins": 7
     },
-    "url": "https://scys.com/articleDetail/22258228411841221"
+    "url": "https://scys.com/articleDetail/xq_topic/22258228411841221"
   },
   {
     "id": "22258228444525881",
@@ -74,7 +74,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 5,
       "coins": 6
     },
-    "url": "https://scys.com/articleDetail/22258228444525881"
+    "url": "https://scys.com/articleDetail/xq_topic/22258228444525881"
   },
   {
     "id": "82258228222854182",
@@ -93,7 +93,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 5,
       "coins": 0
     },
-    "url": "https://scys.com/articleDetail/82258228222854182"
+    "url": "https://scys.com/articleDetail/xq_topic/82258228222854182"
   },
   {
     "id": "45548558558128118",
@@ -112,7 +112,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 30,
       "coins": 8
     },
-    "url": "https://scys.com/articleDetail/45548558558128118"
+    "url": "https://scys.com/articleDetail/xq_topic/45548558558128118"
   },
   {
     "id": "14425445445112282",
@@ -131,7 +131,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 0,
       "coins": 1
     },
-    "url": "https://scys.com/articleDetail/14425445445112282"
+    "url": "https://scys.com/articleDetail/xq_topic/14425445445112282"
   },
   {
     "id": "55521551518444814",
@@ -150,7 +150,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 4,
       "coins": 2
     },
-    "url": "https://scys.com/articleDetail/55521551518444814"
+    "url": "https://scys.com/articleDetail/xq_topic/55521551518444814"
   },
   {
     "id": "14425445458445512",
@@ -169,7 +169,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 0,
       "coins": 1
     },
-    "url": "https://scys.com/articleDetail/14425445458445512"
+    "url": "https://scys.com/articleDetail/xq_topic/14425445458445512"
   },
   {
     "id": "82258228281588282",
@@ -189,7 +189,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 41,
       "coins": 26
     },
-    "url": "https://scys.com/articleDetail/82258228281588282"
+    "url": "https://scys.com/articleDetail/xq_topic/82258228281588282"
   },
   {
     "id": "14425445588242112",
@@ -208,7 +208,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 9,
       "coins": 4
     },
-    "url": "https://scys.com/articleDetail/14425445588242112"
+    "url": "https://scys.com/articleDetail/xq_topic/14425445588242112"
   },
   {
     "id": "82258228812585882",
@@ -227,7 +227,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 9,
       "coins": 3
     },
-    "url": "https://scys.com/articleDetail/82258228812585882"
+    "url": "https://scys.com/articleDetail/xq_topic/82258228812585882"
   },
   {
     "id": "82258228824814812",
@@ -246,7 +246,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 2,
       "coins": 3
     },
-    "url": "https://scys.com/articleDetail/82258228824814812"
+    "url": "https://scys.com/articleDetail/xq_topic/82258228824814812"
   },
   {
     "id": "14425442814118482",
@@ -266,7 +266,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 22,
       "coins": 9
     },
-    "url": "https://scys.com/articleDetail/14425442814118482"
+    "url": "https://scys.com/articleDetail/xq_topic/14425442814118482"
   },
   {
     "id": "82258251221412442",
@@ -285,7 +285,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 3,
       "coins": 0
     },
-    "url": "https://scys.com/articleDetail/82258251221412442"
+    "url": "https://scys.com/articleDetail/xq_topic/82258251221412442"
   },
   {
     "id": "82258281441454182",
@@ -304,7 +304,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 13,
       "coins": 16
     },
-    "url": "https://scys.com/articleDetail/82258281441454182"
+    "url": "https://scys.com/articleDetail/xq_topic/82258281441454182"
   },
   {
     "id": "82258225851242442",
@@ -323,7 +323,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 9,
       "coins": 8
     },
-    "url": "https://scys.com/articleDetail/82258225851242442"
+    "url": "https://scys.com/articleDetail/xq_topic/82258225851242442"
   },
   {
     "id": "82258225514152552",
@@ -342,7 +342,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 2,
       "coins": 0
     },
-    "url": "https://scys.com/articleDetail/82258225514152552"
+    "url": "https://scys.com/articleDetail/xq_topic/82258225514152552"
   },
   {
     "id": "22258225548582181",
@@ -361,7 +361,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 4,
       "coins": 0
     },
-    "url": "https://scys.com/articleDetail/22258225548582181"
+    "url": "https://scys.com/articleDetail/xq_topic/22258225548582181"
   },
   {
     "id": "55521518814112554",
@@ -380,7 +380,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 25,
       "coins": 7
     },
-    "url": "https://scys.com/articleDetail/55521518814112554"
+    "url": "https://scys.com/articleDetail/xq_topic/55521518814112554"
   },
   {
     "id": "45548581185112528",
@@ -399,7 +399,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 43,
       "coins": 9
     },
-    "url": "https://scys.com/articleDetail/45548581185112528"
+    "url": "https://scys.com/articleDetail/xq_topic/45548581185112528"
   },
   {
     "id": "82258281182815242",
@@ -426,7 +426,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 110,
       "coins": 64
     },
-    "url": "https://scys.com/articleDetail/82258281182815242"
+    "url": "https://scys.com/articleDetail/xq_topic/82258281182815242"
   },
   {
     "id": "45548581212525258",
@@ -449,7 +449,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 123,
       "coins": 129
     },
-    "url": "https://scys.com/articleDetail/45548581212525258"
+    "url": "https://scys.com/articleDetail/xq_topic/45548581212525258"
   },
   {
     "id": "14425458145151252",
@@ -468,7 +468,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 8,
       "coins": 0
     },
-    "url": "https://scys.com/articleDetail/14425458145151252"
+    "url": "https://scys.com/articleDetail/xq_topic/14425458145151252"
   },
   {
     "id": "55521518411451154",
@@ -488,7 +488,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 0,
       "coins": 0
     },
-    "url": "https://scys.com/articleDetail/55521518411451154"
+    "url": "https://scys.com/articleDetail/xq_topic/55521518411451154"
   },
   {
     "id": "55521518588451844",
@@ -507,7 +507,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 1,
       "coins": 0
     },
-    "url": "https://scys.com/articleDetail/55521518588451844"
+    "url": "https://scys.com/articleDetail/xq_topic/55521518588451844"
   },
   {
     "id": "14425458511118452",
@@ -526,7 +526,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 0,
       "coins": 0
     },
-    "url": "https://scys.com/articleDetail/14425458511118452"
+    "url": "https://scys.com/articleDetail/xq_topic/14425458511118452"
   },
   {
     "id": "14425458545122242",
@@ -545,7 +545,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 13,
       "coins": 3
     },
-    "url": "https://scys.com/articleDetail/14425458545122242"
+    "url": "https://scys.com/articleDetail/xq_topic/14425458545122242"
   },
   {
     "id": "82258281828288512",
@@ -566,7 +566,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 5,
       "coins": 3
     },
-    "url": "https://scys.com/articleDetail/82258281828288512"
+    "url": "https://scys.com/articleDetail/xq_topic/82258281828288512"
   },
   {
     "id": "45548581888122588",
@@ -585,7 +585,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 0,
       "coins": 0
     },
-    "url": "https://scys.com/articleDetail/45548581888122588"
+    "url": "https://scys.com/articleDetail/xq_topic/45548581888122588"
   },
   {
     "id": "45548581452215888",
@@ -604,7 +604,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 1,
       "coins": 0
     },
-    "url": "https://scys.com/articleDetail/45548581452215888"
+    "url": "https://scys.com/articleDetail/xq_topic/45548581452215888"
   },
   {
     "id": "45548581458522418",
@@ -623,7 +623,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 19,
       "coins": 6
     },
-    "url": "https://scys.com/articleDetail/45548581458522418"
+    "url": "https://scys.com/articleDetail/xq_topic/45548581458522418"
   },
   {
     "id": "82258281525224142",
@@ -642,7 +642,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 2,
       "coins": 1
     },
-    "url": "https://scys.com/articleDetail/82258281525224142"
+    "url": "https://scys.com/articleDetail/xq_topic/82258281525224142"
   },
   {
     "id": "55521512225125224",
@@ -661,7 +661,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 7,
       "coins": 1
     },
-    "url": "https://scys.com/articleDetail/55521512225125224"
+    "url": "https://scys.com/articleDetail/xq_topic/55521512225125224"
   },
   {
     "id": "14425452224251582",
@@ -680,7 +680,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 1,
       "coins": 0
     },
-    "url": "https://scys.com/articleDetail/14425452224251582"
+    "url": "https://scys.com/articleDetail/xq_topic/14425452224251582"
   },
   {
     "id": "22258251282444451",
@@ -699,7 +699,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 41,
       "coins": 28
     },
-    "url": "https://scys.com/articleDetail/22258251282444451"
+    "url": "https://scys.com/articleDetail/xq_topic/22258251282444451"
   },
   {
     "id": "22258251282228221",
@@ -718,7 +718,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 2,
       "coins": 0
     },
-    "url": "https://scys.com/articleDetail/22258251282228221"
+    "url": "https://scys.com/articleDetail/xq_topic/22258251282228221"
   },
   {
     "id": "14425428455142212",
@@ -737,7 +737,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 9,
       "coins": 3
     },
-    "url": "https://scys.com/articleDetail/14425428455142212"
+    "url": "https://scys.com/articleDetail/xq_topic/14425428455142212"
   },
   {
     "id": "55521528148114524",
@@ -756,7 +756,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 1,
       "coins": 10
     },
-    "url": "https://scys.com/articleDetail/55521528148114524"
+    "url": "https://scys.com/articleDetail/xq_topic/55521528148114524"
   },
   {
     "id": "45548541885541248",
@@ -775,7 +775,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 25,
       "coins": 13
     },
-    "url": "https://scys.com/articleDetail/45548541885541248"
+    "url": "https://scys.com/articleDetail/xq_topic/45548541885541248"
   },
   {
     "id": "55521181281185154",
@@ -794,7 +794,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 8,
       "coins": 2
     },
-    "url": "https://scys.com/articleDetail/55521181281185154"
+    "url": "https://scys.com/articleDetail/xq_topic/55521181281185154"
   },
   {
     "id": "45548542142845218",
@@ -813,7 +813,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 15,
       "coins": 17
     },
-    "url": "https://scys.com/articleDetail/45548542142845218"
+    "url": "https://scys.com/articleDetail/xq_topic/45548542142845218"
   },
   {
     "id": "22258254421522121",
@@ -833,7 +833,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 30,
       "coins": 11
     },
-    "url": "https://scys.com/articleDetail/22258254421522121"
+    "url": "https://scys.com/articleDetail/xq_topic/22258254421522121"
   },
   {
     "id": "45548542858428458",
@@ -852,7 +852,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 2,
       "coins": 0
     },
-    "url": "https://scys.com/articleDetail/45548542858428458"
+    "url": "https://scys.com/articleDetail/xq_topic/45548542858428458"
   },
   {
     "id": "45548542845252448",
@@ -872,7 +872,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 2,
       "coins": 0
     },
-    "url": "https://scys.com/articleDetail/45548542845252448"
+    "url": "https://scys.com/articleDetail/xq_topic/45548542845252448"
   },
   {
     "id": "45548548858244848",
@@ -891,7 +891,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 1,
       "coins": 6
     },
-    "url": "https://scys.com/articleDetail/45548548858244848"
+    "url": "https://scys.com/articleDetail/xq_topic/45548548858244848"
   },
   {
     "id": "45548548441812288",
@@ -910,7 +910,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 3,
       "coins": 0
     },
-    "url": "https://scys.com/articleDetail/45548548441812288"
+    "url": "https://scys.com/articleDetail/xq_topic/45548548441812288"
   },
   {
     "id": "82258255428182452",
@@ -929,7 +929,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 1,
       "coins": 1
     },
-    "url": "https://scys.com/articleDetail/82258255428182452"
+    "url": "https://scys.com/articleDetail/xq_topic/82258255428182452"
   },
   {
     "id": "82258255455152842",
@@ -948,7 +948,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 0,
       "coins": 0
     },
-    "url": "https://scys.com/articleDetail/82258255455152842"
+    "url": "https://scys.com/articleDetail/xq_topic/82258255455152842"
   },
   {
     "id": "22258255282248811",
@@ -970,7 +970,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 5,
       "coins": 9
     },
-    "url": "https://scys.com/articleDetail/22258255282248811"
+    "url": "https://scys.com/articleDetail/xq_topic/22258255282248811"
   },
   {
     "id": "55521185222128454",
@@ -989,7 +989,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 2,
       "coins": 1
     },
-    "url": "https://scys.com/articleDetail/55521185222128454"
+    "url": "https://scys.com/articleDetail/xq_topic/55521185222128454"
   },
   {
     "id": "55521181888845824",
@@ -1008,7 +1008,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 1,
       "coins": 0
     },
-    "url": "https://scys.com/articleDetail/55521181888845824"
+    "url": "https://scys.com/articleDetail/xq_topic/55521181888845824"
   },
   {
     "id": "14425585852582442",
@@ -1028,7 +1028,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 44,
       "coins": 21
     },
-    "url": "https://scys.com/articleDetail/14425585852582442"
+    "url": "https://scys.com/articleDetail/xq_topic/14425585852582442"
   },
   {
     "id": "14425582814225222",
@@ -1047,7 +1047,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 0,
       "coins": 0
     },
-    "url": "https://scys.com/articleDetail/14425582814225222"
+    "url": "https://scys.com/articleDetail/xq_topic/14425582814225222"
   },
   {
     "id": "55521182842445124",
@@ -1066,7 +1066,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 0,
       "coins": 0
     },
-    "url": "https://scys.com/articleDetail/55521182842445124"
+    "url": "https://scys.com/articleDetail/xq_topic/55521182842445124"
   },
   {
     "id": "55521182441228854",
@@ -1085,7 +1085,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 0,
       "coins": 0
     },
-    "url": "https://scys.com/articleDetail/55521182441228854"
+    "url": "https://scys.com/articleDetail/xq_topic/55521182441228854"
   },
   {
     "id": "55521182115122244",
@@ -1105,7 +1105,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 3,
       "coins": 2
     },
-    "url": "https://scys.com/articleDetail/55521182115122244"
+    "url": "https://scys.com/articleDetail/xq_topic/55521182115122244"
   },
   {
     "id": "14425582244425452",
@@ -1124,7 +1124,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 2,
       "coins": 0
     },
-    "url": "https://scys.com/articleDetail/14425582244425452"
+    "url": "https://scys.com/articleDetail/xq_topic/14425582244425452"
   },
   {
     "id": "14425582245845252",
@@ -1144,7 +1144,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 2,
       "coins": 1
     },
-    "url": "https://scys.com/articleDetail/14425582245845252"
+    "url": "https://scys.com/articleDetail/xq_topic/14425582245845252"
   },
   {
     "id": "45548814458242458",
@@ -1166,7 +1166,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 167,
       "coins": 150
     },
-    "url": "https://scys.com/articleDetail/45548814458242458"
+    "url": "https://scys.com/articleDetail/xq_topic/45548814458242458"
   },
   {
     "id": "14425518855185212",
@@ -1185,7 +1185,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 11,
       "coins": 1
     },
-    "url": "https://scys.com/articleDetail/14425518855185212"
+    "url": "https://scys.com/articleDetail/xq_topic/14425518855185212"
   },
   {
     "id": "55521148488412554",
@@ -1204,7 +1204,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 3,
       "coins": 11
     },
-    "url": "https://scys.com/articleDetail/55521148488412554"
+    "url": "https://scys.com/articleDetail/xq_topic/55521148488412554"
   },
   {
     "id": "22258841414142421",
@@ -1223,7 +1223,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 20,
       "coins": 8
     },
-    "url": "https://scys.com/articleDetail/22258841414142421"
+    "url": "https://scys.com/articleDetail/xq_topic/22258841414142421"
   },
   {
     "id": "22258841454881881",
@@ -1244,7 +1244,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 43,
       "coins": 2
     },
-    "url": "https://scys.com/articleDetail/22258841454881881"
+    "url": "https://scys.com/articleDetail/xq_topic/22258841454881881"
   },
   {
     "id": "22258841452885121",
@@ -1264,7 +1264,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 15,
       "coins": 1
     },
-    "url": "https://scys.com/articleDetail/22258841452885121"
+    "url": "https://scys.com/articleDetail/xq_topic/22258841452885121"
   },
   {
     "id": "82258841244442442",
@@ -1284,7 +1284,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 21,
       "coins": 31
     },
-    "url": "https://scys.com/articleDetail/82258841244442442"
+    "url": "https://scys.com/articleDetail/xq_topic/82258841244442442"
   },
   {
     "id": "82258841244215442",
@@ -1304,7 +1304,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 18,
       "coins": 6
     },
-    "url": "https://scys.com/articleDetail/82258841244215442"
+    "url": "https://scys.com/articleDetail/xq_topic/82258841244215442"
   },
   {
     "id": "82258841552411222",
@@ -1323,7 +1323,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 13,
       "coins": 6
     },
-    "url": "https://scys.com/articleDetail/82258841552411222"
+    "url": "https://scys.com/articleDetail/xq_topic/82258841552411222"
   },
   {
     "id": "22258841554444151",
@@ -1342,7 +1342,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 38,
       "coins": 16
     },
-    "url": "https://scys.com/articleDetail/22258841554444151"
+    "url": "https://scys.com/articleDetail/xq_topic/22258841554444151"
   },
   {
     "id": "45548821445121558",
@@ -1361,7 +1361,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 3,
       "coins": 0
     },
-    "url": "https://scys.com/articleDetail/45548821445121558"
+    "url": "https://scys.com/articleDetail/xq_topic/45548821445121558"
   },
   {
     "id": "55521144458288884",
@@ -1380,7 +1380,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 1,
       "coins": 1
     },
-    "url": "https://scys.com/articleDetail/55521144458288884"
+    "url": "https://scys.com/articleDetail/xq_topic/55521144458288884"
   },
   {
     "id": "45548822514441118",
@@ -1401,7 +1401,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 84,
       "coins": 15
     },
-    "url": "https://scys.com/articleDetail/45548822514441118"
+    "url": "https://scys.com/articleDetail/xq_topic/45548822514441118"
   },
   {
     "id": "22258844241888121",
@@ -1420,7 +1420,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 46,
       "coins": 65
     },
-    "url": "https://scys.com/articleDetail/22258844241888121"
+    "url": "https://scys.com/articleDetail/xq_topic/22258844241888121"
   },
   {
     "id": "55521144122451554",
@@ -1439,7 +1439,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 45,
       "coins": 56
     },
-    "url": "https://scys.com/articleDetail/55521144122451554"
+    "url": "https://scys.com/articleDetail/xq_topic/55521144122451554"
   },
   {
     "id": "45548822412515588",
@@ -1458,7 +1458,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 43,
       "coins": 43
     },
-    "url": "https://scys.com/articleDetail/45548822412515588"
+    "url": "https://scys.com/articleDetail/xq_topic/45548822412515588"
   },
   {
     "id": "55521144252112554",
@@ -1477,7 +1477,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 50,
       "coins": 46
     },
-    "url": "https://scys.com/articleDetail/55521144252112554"
+    "url": "https://scys.com/articleDetail/xq_topic/55521144252112554"
   },
   {
     "id": "22258842488455281",
@@ -1496,7 +1496,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 28,
       "coins": 24
     },
-    "url": "https://scys.com/articleDetail/22258842488455281"
+    "url": "https://scys.com/articleDetail/xq_topic/22258842488455281"
   },
   {
     "id": "14425514122418282",
@@ -1515,7 +1515,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 0,
       "coins": 2
     },
-    "url": "https://scys.com/articleDetail/14425514122418282"
+    "url": "https://scys.com/articleDetail/xq_topic/14425514122418282"
   },
   {
     "id": "45548825544811848",
@@ -1534,7 +1534,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 21,
       "coins": 26
     },
-    "url": "https://scys.com/articleDetail/45548825544811848"
+    "url": "https://scys.com/articleDetail/xq_topic/45548825544811848"
   },
   {
     "id": "82258842548288112",
@@ -1553,7 +1553,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 22,
       "coins": 84
     },
-    "url": "https://scys.com/articleDetail/82258842548288112"
+    "url": "https://scys.com/articleDetail/xq_topic/82258842548288112"
   },
   {
     "id": "55521141818422484",
@@ -1572,7 +1572,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 8,
       "coins": 16
     },
-    "url": "https://scys.com/articleDetail/55521141818422484"
+    "url": "https://scys.com/articleDetail/xq_topic/55521141818422484"
   },
   {
     "id": "22258881142551151",
@@ -1592,7 +1592,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 4,
       "coins": 3
     },
-    "url": "https://scys.com/articleDetail/22258881142551151"
+    "url": "https://scys.com/articleDetail/xq_topic/22258881142551151"
   },
   {
     "id": "22255152441224441",
@@ -1612,7 +1612,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 76,
       "coins": 33
     },
-    "url": "https://scys.com/articleDetail/22255152441224441"
+    "url": "https://scys.com/articleDetail/xq_topic/22255152441224441"
   },
   {
     "id": "45544145558848128",
@@ -1631,7 +1631,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 1,
       "coins": 4
     },
-    "url": "https://scys.com/articleDetail/45544145558848128"
+    "url": "https://scys.com/articleDetail/xq_topic/45544145558848128"
   },
   {
     "id": "14422125214852152",
@@ -1650,7 +1650,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 11,
       "coins": 16
     },
-    "url": "https://scys.com/articleDetail/14422125214852152"
+    "url": "https://scys.com/articleDetail/xq_topic/14422125214852152"
   },
   {
     "id": "22255158288252251",
@@ -1669,7 +1669,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 20,
       "coins": 5
     },
-    "url": "https://scys.com/articleDetail/22255158288252251"
+    "url": "https://scys.com/articleDetail/xq_topic/22255158288252251"
   },
   {
     "id": "45544144855148588",
@@ -1688,7 +1688,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 15,
       "coins": 0
     },
-    "url": "https://scys.com/articleDetail/45544144855148588"
+    "url": "https://scys.com/articleDetail/xq_topic/45544144855148588"
   },
   {
     "id": "14422188515422182",
@@ -1707,7 +1707,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 5,
       "coins": 1
     },
-    "url": "https://scys.com/articleDetail/14422188515422182"
+    "url": "https://scys.com/articleDetail/xq_topic/14422188515422182"
   },
   {
     "id": "22255444245842581",
@@ -1726,7 +1726,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 2,
       "coins": 6
     },
-    "url": "https://scys.com/articleDetail/22255444245842581"
+    "url": "https://scys.com/articleDetail/xq_topic/22255444245842581"
   },
   {
     "id": "45544228145544258",
@@ -1745,7 +1745,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 129,
       "coins": 64
     },
-    "url": "https://scys.com/articleDetail/45544228145544258"
+    "url": "https://scys.com/articleDetail/xq_topic/45544228145544258"
   },
   {
     "id": "45544228841182448",
@@ -1764,7 +1764,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 165,
       "coins": 100
     },
-    "url": "https://scys.com/articleDetail/45544228841182448"
+    "url": "https://scys.com/articleDetail/xq_topic/45544228841182448"
   },
   {
     "id": "55522442814458844",
@@ -1783,7 +1783,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 4,
       "coins": 0
     },
-    "url": "https://scys.com/articleDetail/55522442814458844"
+    "url": "https://scys.com/articleDetail/xq_topic/55522442814458844"
   },
   {
     "id": "22255445454151841",
@@ -1802,7 +1802,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 3,
       "coins": 0
     },
-    "url": "https://scys.com/articleDetail/22255445454151841"
+    "url": "https://scys.com/articleDetail/xq_topic/22255445454151841"
   },
   {
     "id": "14422112215281442",
@@ -1825,7 +1825,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 209,
       "coins": 66
     },
-    "url": "https://scys.com/articleDetail/14422112215281442"
+    "url": "https://scys.com/articleDetail/xq_topic/14422112215281442"
   },
   {
     "id": "82255445524424442",
@@ -1844,7 +1844,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 168,
       "coins": 29
     },
-    "url": "https://scys.com/articleDetail/82255445524424442"
+    "url": "https://scys.com/articleDetail/xq_topic/82255445524424442"
   },
   {
     "id": "82255445522222822",
@@ -1863,7 +1863,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 218,
       "coins": 38
     },
-    "url": "https://scys.com/articleDetail/82255445522222822"
+    "url": "https://scys.com/articleDetail/xq_topic/82255445522222822"
   },
   {
     "id": "45544251258444548",
@@ -1882,7 +1882,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 3,
       "coins": 1
     },
-    "url": "https://scys.com/articleDetail/45544251258444548"
+    "url": "https://scys.com/articleDetail/xq_topic/45544251258444548"
   },
   {
     "id": "82255421451551242",
@@ -1901,7 +1901,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 186,
       "coins": 40
     },
-    "url": "https://scys.com/articleDetail/82255421451551242"
+    "url": "https://scys.com/articleDetail/xq_topic/82255421451551242"
   },
   {
     "id": "22255421454258121",
@@ -1924,7 +1924,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 115,
       "coins": 27
     },
-    "url": "https://scys.com/articleDetail/22255421454258121"
+    "url": "https://scys.com/articleDetail/xq_topic/22255421454258121"
   },
   {
     "id": "82255425841144412",
@@ -1943,7 +1943,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 16,
       "coins": 8
     },
-    "url": "https://scys.com/articleDetail/82255425841144412"
+    "url": "https://scys.com/articleDetail/xq_topic/82255425841144412"
   },
   {
     "id": "55522452145581884",
@@ -1962,7 +1962,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 0,
       "coins": 0
     },
-    "url": "https://scys.com/articleDetail/55522452145581884"
+    "url": "https://scys.com/articleDetail/xq_topic/55522452145581884"
   },
   {
     "id": "14422158885415882",
@@ -1981,7 +1981,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 0,
       "coins": 1
     },
-    "url": "https://scys.com/articleDetail/14422158885415882"
+    "url": "https://scys.com/articleDetail/xq_topic/14422158885415882"
   },
   {
     "id": "55522414484184224",
@@ -2008,7 +2008,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 376,
       "coins": 337
     },
-    "url": "https://scys.com/articleDetail/55522414484184224"
+    "url": "https://scys.com/articleDetail/xq_topic/55522414484184224"
   },
   {
     "id": "22255482425242851",
@@ -2027,7 +2027,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 5,
       "coins": 13
     },
-    "url": "https://scys.com/articleDetail/22255482425242851"
+    "url": "https://scys.com/articleDetail/xq_topic/22255482425242851"
   },
   {
     "id": "55522411825124854",
@@ -2046,7 +2046,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 5,
       "coins": 4
     },
-    "url": "https://scys.com/articleDetail/55522411825124854"
+    "url": "https://scys.com/articleDetail/xq_topic/55522411825124854"
   },
   {
     "id": "82255488455881282",
@@ -2065,7 +2065,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 2,
       "coins": 2
     },
-    "url": "https://scys.com/articleDetail/82255488455881282"
+    "url": "https://scys.com/articleDetail/xq_topic/82255488455881282"
   },
   {
     "id": "55522421444212824",
@@ -2084,7 +2084,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 7,
       "coins": 5
     },
-    "url": "https://scys.com/articleDetail/55522421444212824"
+    "url": "https://scys.com/articleDetail/xq_topic/55522421444212824"
   },
   {
     "id": "22255458421221821",
@@ -2103,7 +2103,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 6,
       "coins": 9
     },
-    "url": "https://scys.com/articleDetail/22255458421221821"
+    "url": "https://scys.com/articleDetail/xq_topic/22255458421221821"
   },
   {
     "id": "45544244254421528",
@@ -2122,7 +2122,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 1,
       "coins": 0
     },
-    "url": "https://scys.com/articleDetail/45544244254421528"
+    "url": "https://scys.com/articleDetail/xq_topic/45544244254421528"
   },
   {
     "id": "14422488218481252",
@@ -2141,7 +2141,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 25,
       "coins": 31
     },
-    "url": "https://scys.com/articleDetail/14422488218481252"
+    "url": "https://scys.com/articleDetail/xq_topic/14422488218481252"
   },
   {
     "id": "55522545154541444",
@@ -2160,7 +2160,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 28,
       "coins": 13
     },
-    "url": "https://scys.com/articleDetail/55522545154541444"
+    "url": "https://scys.com/articleDetail/xq_topic/55522545154541444"
   },
   {
     "id": "22255248488548411",
@@ -2179,7 +2179,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 15,
       "coins": 17
     },
-    "url": "https://scys.com/articleDetail/22255248488548411"
+    "url": "https://scys.com/articleDetail/xq_topic/22255248488548411"
   },
   {
     "id": "22255248518182821",
@@ -2200,7 +2200,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 12,
       "coins": 7
     },
-    "url": "https://scys.com/articleDetail/22255248518182821"
+    "url": "https://scys.com/articleDetail/xq_topic/22255248518182821"
   },
   {
     "id": "14422441854555852",
@@ -2220,7 +2220,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 3,
       "coins": 1
     },
-    "url": "https://scys.com/articleDetail/14422441854555852"
+    "url": "https://scys.com/articleDetail/xq_topic/14422441854555852"
   },
   {
     "id": "45544582258881858",
@@ -2239,7 +2239,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 12,
       "coins": 3
     },
-    "url": "https://scys.com/articleDetail/45544582258881858"
+    "url": "https://scys.com/articleDetail/xq_topic/45544582258881858"
   },
   {
     "id": "82255284451582152",
@@ -2258,7 +2258,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 38,
       "coins": 10
     },
-    "url": "https://scys.com/articleDetail/82255284451582152"
+    "url": "https://scys.com/articleDetail/xq_topic/82255284451582152"
   },
   {
     "id": "480",
@@ -2278,7 +2278,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 35,
       "coins": 3
     },
-    "url": "https://scys.com/articleDetail/480"
+    "url": "https://scys.com/articleDetail/forum_topic/480"
   },
   {
     "id": "22255284452115441",
@@ -2297,7 +2297,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 339,
       "coins": 109
     },
-    "url": "https://scys.com/articleDetail/22255284452115441"
+    "url": "https://scys.com/articleDetail/xq_topic/22255284452115441"
   },
   {
     "id": "82255284452481552",
@@ -2316,7 +2316,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 8,
       "coins": 1
     },
-    "url": "https://scys.com/articleDetail/82255284452481552"
+    "url": "https://scys.com/articleDetail/xq_topic/82255284452481552"
   },
   {
     "id": "22255284455545481",
@@ -2337,7 +2337,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 67,
       "coins": 10
     },
-    "url": "https://scys.com/articleDetail/22255284455545481"
+    "url": "https://scys.com/articleDetail/xq_topic/22255284455545481"
   },
   {
     "id": "14422451412248852",
@@ -2356,7 +2356,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 1,
       "coins": 34
     },
-    "url": "https://scys.com/articleDetail/14422451412248852"
+    "url": "https://scys.com/articleDetail/xq_topic/14422451412248852"
   },
   {
     "id": "22255282125524151",
@@ -2375,7 +2375,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 2,
       "coins": 2
     },
-    "url": "https://scys.com/articleDetail/22255282125524151"
+    "url": "https://scys.com/articleDetail/xq_topic/22255282125524151"
   },
   {
     "id": "82255288121824122",
@@ -2394,7 +2394,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 12,
       "coins": 9
     },
-    "url": "https://scys.com/articleDetail/82255288121824122"
+    "url": "https://scys.com/articleDetail/xq_topic/82255288121824122"
   },
   {
     "id": "55522511854582284",
@@ -2413,7 +2413,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 160,
       "coins": 35
     },
-    "url": "https://scys.com/articleDetail/55522511854582284"
+    "url": "https://scys.com/articleDetail/xq_topic/55522511854582284"
   },
   {
     "id": "82255288212828482",
@@ -2432,7 +2432,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 0,
       "coins": 3
     },
-    "url": "https://scys.com/articleDetail/82255288212828482"
+    "url": "https://scys.com/articleDetail/xq_topic/82255288212828482"
   },
   {
     "id": "22255288258482111",
@@ -2452,7 +2452,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 10,
       "coins": 4
     },
-    "url": "https://scys.com/articleDetail/22255288258482111"
+    "url": "https://scys.com/articleDetail/xq_topic/22255288258482111"
   },
   {
     "id": "82255288255412512",
@@ -2471,7 +2471,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 7,
       "coins": 7
     },
-    "url": "https://scys.com/articleDetail/82255288255412512"
+    "url": "https://scys.com/articleDetail/xq_topic/82255288255412512"
   },
   {
     "id": "55522511185424544",
@@ -2490,7 +2490,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 209,
       "coins": 41
     },
-    "url": "https://scys.com/articleDetail/55522511185424544"
+    "url": "https://scys.com/articleDetail/xq_topic/55522511185424544"
   },
   {
     "id": "22255288841854581",
@@ -2509,7 +2509,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 23,
       "coins": 8
     },
-    "url": "https://scys.com/articleDetail/22255288841854581"
+    "url": "https://scys.com/articleDetail/xq_topic/22255288841854581"
   },
   {
     "id": "14422455514455412",
@@ -2528,7 +2528,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 228,
       "coins": 235
     },
-    "url": "https://scys.com/articleDetail/14422455514455412"
+    "url": "https://scys.com/articleDetail/xq_topic/14422455514455412"
   },
   {
     "id": "45544588854282158",
@@ -2547,7 +2547,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 6,
       "coins": 0
     },
-    "url": "https://scys.com/articleDetail/45544588854282158"
+    "url": "https://scys.com/articleDetail/xq_topic/45544588854282158"
   },
   {
     "id": "45544584155251528",
@@ -2566,7 +2566,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 105,
       "coins": 33
     },
-    "url": "https://scys.com/articleDetail/45544584155251528"
+    "url": "https://scys.com/articleDetail/xq_topic/45544584155251528"
   },
   {
     "id": "82255812888828482",
@@ -2586,7 +2586,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 6,
       "coins": 2
     },
-    "url": "https://scys.com/articleDetail/82255812888828482"
+    "url": "https://scys.com/articleDetail/xq_topic/82255812888828482"
   },
   {
     "id": "22255812544552121",
@@ -2605,7 +2605,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 3,
       "coins": 1
     },
-    "url": "https://scys.com/articleDetail/22255812544552121"
+    "url": "https://scys.com/articleDetail/xq_topic/22255812544552121"
   },
   {
     "id": "14422511212284442",
@@ -2624,7 +2624,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 5,
       "coins": 12
     },
-    "url": "https://scys.com/articleDetail/14422511212284442"
+    "url": "https://scys.com/articleDetail/xq_topic/14422511212284442"
   },
   {
     "id": "55522142181548224",
@@ -2644,7 +2644,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 2,
       "coins": 0
     },
-    "url": "https://scys.com/articleDetail/55522142181548224"
+    "url": "https://scys.com/articleDetail/xq_topic/55522142181548224"
   },
   {
     "id": "82255845818245542",
@@ -2663,7 +2663,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 2,
       "coins": 6
     },
-    "url": "https://scys.com/articleDetail/82255845818245542"
+    "url": "https://scys.com/articleDetail/xq_topic/82255845818245542"
   },
   {
     "id": "22255845818825821",
@@ -2682,7 +2682,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 120,
       "coins": 43
     },
-    "url": "https://scys.com/articleDetail/22255845818825821"
+    "url": "https://scys.com/articleDetail/xq_topic/22255845818825821"
   },
   {
     "id": "82255845818511212",
@@ -2701,7 +2701,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 26,
       "coins": 2
     },
-    "url": "https://scys.com/articleDetail/82255845818511212"
+    "url": "https://scys.com/articleDetail/xq_topic/82255845818511212"
   },
   {
     "id": "45544824841421428",
@@ -2720,7 +2720,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 79,
       "coins": 36
     },
-    "url": "https://scys.com/articleDetail/45544824841421428"
+    "url": "https://scys.com/articleDetail/xq_topic/45544824841421428"
   },
   {
     "id": "82255821411484242",
@@ -2740,7 +2740,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 4,
       "coins": 4
     },
-    "url": "https://scys.com/articleDetail/82255821411484242"
+    "url": "https://scys.com/articleDetail/xq_topic/82255821411484242"
   },
   {
     "id": "14422541185412152",
@@ -2759,7 +2759,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 2,
       "coins": 6
     },
-    "url": "https://scys.com/articleDetail/14422541185412152"
+    "url": "https://scys.com/articleDetail/xq_topic/14422541185412152"
   },
   {
     "id": "82255824845544852",
@@ -2779,7 +2779,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 17,
       "coins": 45
     },
-    "url": "https://scys.com/articleDetail/82255824845544852"
+    "url": "https://scys.com/articleDetail/xq_topic/82255824845544852"
   },
   {
     "id": "22255881255128841",
@@ -2799,7 +2799,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 7,
       "coins": 2
     },
-    "url": "https://scys.com/articleDetail/22255881255128841"
+    "url": "https://scys.com/articleDetail/xq_topic/22255881255128841"
   },
   {
     "id": "45544882811288248",
@@ -2819,7 +2819,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 0,
       "coins": 6
     },
-    "url": "https://scys.com/articleDetail/45544882811288248"
+    "url": "https://scys.com/articleDetail/xq_topic/45544882811288248"
   },
   {
     "id": "45544882812242248",
@@ -2838,7 +2838,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 1,
       "coins": 0
     },
-    "url": "https://scys.com/articleDetail/45544882812242248"
+    "url": "https://scys.com/articleDetail/xq_topic/45544882812242248"
   },
   {
     "id": "14422551545445542",
@@ -2858,7 +2858,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 37,
       "coins": 48
     },
-    "url": "https://scys.com/articleDetail/14422551545445542"
+    "url": "https://scys.com/articleDetail/xq_topic/14422551545445542"
   },
   {
     "id": "45544882882545848",
@@ -2878,7 +2878,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 0,
       "coins": 1
     },
-    "url": "https://scys.com/articleDetail/45544882882545848"
+    "url": "https://scys.com/articleDetail/xq_topic/45544882882545848"
   },
   {
     "id": "45544888412818828",
@@ -2898,7 +2898,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 3,
       "coins": 0
     },
-    "url": "https://scys.com/articleDetail/45544888412818828"
+    "url": "https://scys.com/articleDetail/xq_topic/45544888412818828"
   },
   {
     "id": "82255888518481842",
@@ -2918,7 +2918,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 162,
       "coins": 238
     },
-    "url": "https://scys.com/articleDetail/82255888518481842"
+    "url": "https://scys.com/articleDetail/xq_topic/82255888518481842"
   },
   {
     "id": "22255888588854141",
@@ -2938,7 +2938,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 3,
       "coins": 2
     },
-    "url": "https://scys.com/articleDetail/22255888588854141"
+    "url": "https://scys.com/articleDetail/xq_topic/22255888588854141"
   },
   {
     "id": "82255885152282282",
@@ -2957,7 +2957,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 45,
       "coins": 2
     },
-    "url": "https://scys.com/articleDetail/82255885152282282"
+    "url": "https://scys.com/articleDetail/xq_topic/82255885152282282"
   },
   {
     "id": "22255885412888211",
@@ -2976,7 +2976,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 3,
       "coins": 0
     },
-    "url": "https://scys.com/articleDetail/22255885412888211"
+    "url": "https://scys.com/articleDetail/xq_topic/22255885412888211"
   },
   {
     "id": "45544884848545258",
@@ -2997,7 +2997,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 252,
       "coins": 181
     },
-    "url": "https://scys.com/articleDetail/45544884848545258"
+    "url": "https://scys.com/articleDetail/xq_topic/45544884848545258"
   },
   {
     "id": "14422552288844212",
@@ -3019,7 +3019,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 7,
       "coins": 13
     },
-    "url": "https://scys.com/articleDetail/14422552288844212"
+    "url": "https://scys.com/articleDetail/xq_topic/14422552288844212"
   },
   {
     "id": "55522112285414214",
@@ -3040,7 +3040,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 1,
       "coins": 0
     },
-    "url": "https://scys.com/articleDetail/55522112285414214"
+    "url": "https://scys.com/articleDetail/xq_topic/55522112285414214"
   },
   {
     "id": "14422528412151242",
@@ -3059,7 +3059,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 1,
       "coins": 3
     },
-    "url": "https://scys.com/articleDetail/14422528412151242"
+    "url": "https://scys.com/articleDetail/xq_topic/14422528412151242"
   },
   {
     "id": "82255851224451842",
@@ -3079,7 +3079,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 6,
       "coins": 8
     },
-    "url": "https://scys.com/articleDetail/82255851224451842"
+    "url": "https://scys.com/articleDetail/xq_topic/82255851224451842"
   },
   {
     "id": "55522128554151514",
@@ -3098,7 +3098,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 0,
       "coins": 0
     },
-    "url": "https://scys.com/articleDetail/55522128554151514"
+    "url": "https://scys.com/articleDetail/xq_topic/55522128554151514"
   },
   {
     "id": "45544841555824528",
@@ -3117,7 +3117,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 1,
       "coins": 0
     },
-    "url": "https://scys.com/articleDetail/45544841555824528"
+    "url": "https://scys.com/articleDetail/xq_topic/45544841555824528"
   },
   {
     "id": "22255851222882151",
@@ -3137,7 +3137,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 1,
       "coins": 0
     },
-    "url": "https://scys.com/articleDetail/22255851222882151"
+    "url": "https://scys.com/articleDetail/xq_topic/22255851222882151"
   },
   {
     "id": "14422528444521442",
@@ -3157,7 +3157,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 0,
       "coins": 0
     },
-    "url": "https://scys.com/articleDetail/14422528444521442"
+    "url": "https://scys.com/articleDetail/xq_topic/14422528444521442"
   },
   {
     "id": "82255851222525522",
@@ -3177,7 +3177,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 0,
       "coins": 0
     },
-    "url": "https://scys.com/articleDetail/82255851222525522"
+    "url": "https://scys.com/articleDetail/xq_topic/82255851222525522"
   },
   {
     "id": "82255851222588852",
@@ -3197,7 +3197,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 0,
       "coins": 0
     },
-    "url": "https://scys.com/articleDetail/82255851222588852"
+    "url": "https://scys.com/articleDetail/xq_topic/82255851222588852"
   },
   {
     "id": "45544841555445458",
@@ -3217,7 +3217,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 0,
       "coins": 0
     },
-    "url": "https://scys.com/articleDetail/45544841555445458"
+    "url": "https://scys.com/articleDetail/xq_topic/45544841555445458"
   },
   {
     "id": "55522128551482814",
@@ -3237,7 +3237,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 0,
       "coins": 0
     },
-    "url": "https://scys.com/articleDetail/55522128551482814"
+    "url": "https://scys.com/articleDetail/xq_topic/55522128551482814"
   },
   {
     "id": "55522122881412444",
@@ -3257,7 +3257,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 3,
       "coins": 62
     },
-    "url": "https://scys.com/articleDetail/55522122881412444"
+    "url": "https://scys.com/articleDetail/xq_topic/55522122881412444"
   },
   {
     "id": "45544844122148258",
@@ -3277,7 +3277,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 2,
       "coins": 9
     },
-    "url": "https://scys.com/articleDetail/45544844122148258"
+    "url": "https://scys.com/articleDetail/xq_topic/45544844122148258"
   },
   {
     "id": "22255855424524441",
@@ -3296,7 +3296,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 87,
       "coins": 48
     },
-    "url": "https://scys.com/articleDetail/22255855424524441"
+    "url": "https://scys.com/articleDetail/xq_topic/22255855424524441"
   },
   {
     "id": "55522122281885254",
@@ -3315,7 +3315,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 15,
       "coins": 6
     },
-    "url": "https://scys.com/articleDetail/55522122281885254"
+    "url": "https://scys.com/articleDetail/xq_topic/55522122281885254"
   },
   {
     "id": "55522122281554184",
@@ -3334,7 +3334,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 5,
       "coins": 4
     },
-    "url": "https://scys.com/articleDetail/55522122281554184"
+    "url": "https://scys.com/articleDetail/xq_topic/55522122281554184"
   },
   {
     "id": "55522288442842484",
@@ -3353,7 +3353,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 3,
       "coins": 4
     },
-    "url": "https://scys.com/articleDetail/55522288442842484"
+    "url": "https://scys.com/articleDetail/xq_topic/55522288442842484"
   },
   {
     "id": "14422288558511842",
@@ -3372,7 +3372,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 18,
       "coins": 2
     },
-    "url": "https://scys.com/articleDetail/14422288558511842"
+    "url": "https://scys.com/articleDetail/xq_topic/14422288558511842"
   },
   {
     "id": "22255511881554821",
@@ -3393,7 +3393,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 5,
       "coins": 6
     },
-    "url": "https://scys.com/articleDetail/22255511881554821"
+    "url": "https://scys.com/articleDetail/xq_topic/22255511881554821"
   },
   {
     "id": "45544411882254128",
@@ -3413,7 +3413,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 21,
       "coins": 9
     },
-    "url": "https://scys.com/articleDetail/45544411882254128"
+    "url": "https://scys.com/articleDetail/xq_topic/45544411882254128"
   },
   {
     "id": "14422281128151482",
@@ -3433,7 +3433,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 71,
       "coins": 39
     },
-    "url": "https://scys.com/articleDetail/14422281128151482"
+    "url": "https://scys.com/articleDetail/xq_topic/14422281128151482"
   },
   {
     "id": "82255514852428212",
@@ -3453,7 +3453,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 17,
       "coins": 23
     },
-    "url": "https://scys.com/articleDetail/82255514852428212"
+    "url": "https://scys.com/articleDetail/xq_topic/82255514852428212"
   },
   {
     "id": "22255514554414521",
@@ -3474,7 +3474,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 1,
       "coins": 0
     },
-    "url": "https://scys.com/articleDetail/22255514554414521"
+    "url": "https://scys.com/articleDetail/xq_topic/22255514554414521"
   },
   {
     "id": "55522284255118554",
@@ -3493,7 +3493,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 27,
       "coins": 14
     },
-    "url": "https://scys.com/articleDetail/55522284255118554"
+    "url": "https://scys.com/articleDetail/xq_topic/55522284255118554"
   },
   {
     "id": "14422281224828852",
@@ -3513,7 +3513,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 39,
       "coins": 70
     },
-    "url": "https://scys.com/articleDetail/14422281224828852"
+    "url": "https://scys.com/articleDetail/xq_topic/14422281224828852"
   },
   {
     "id": "45544412445522558",
@@ -3533,7 +3533,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 5,
       "coins": 4
     },
-    "url": "https://scys.com/articleDetail/45544412445522558"
+    "url": "https://scys.com/articleDetail/xq_topic/45544412445522558"
   },
   {
     "id": "82255512111818842",
@@ -3555,7 +3555,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 6,
       "coins": 12
     },
-    "url": "https://scys.com/articleDetail/82255512111818842"
+    "url": "https://scys.com/articleDetail/xq_topic/82255512111818842"
   },
   {
     "id": "45544415221125188",
@@ -3574,7 +3574,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 4,
       "coins": 0
     },
-    "url": "https://scys.com/articleDetail/45544415221125188"
+    "url": "https://scys.com/articleDetail/xq_topic/45544415221125188"
   },
   {
     "id": "22255512548581551",
@@ -3593,7 +3593,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 4,
       "coins": 17
     },
-    "url": "https://scys.com/articleDetail/22255512548581551"
+    "url": "https://scys.com/articleDetail/xq_topic/22255512548581551"
   },
   {
     "id": "55522281521554544",
@@ -3616,7 +3616,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 38,
       "coins": 38
     },
-    "url": "https://scys.com/articleDetail/55522281521554544"
+    "url": "https://scys.com/articleDetail/xq_topic/55522281521554544"
   },
   {
     "id": "55522281245214424",
@@ -3637,7 +3637,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 15,
       "coins": 14
     },
-    "url": "https://scys.com/articleDetail/55522281245214424"
+    "url": "https://scys.com/articleDetail/xq_topic/55522281245214424"
   },
   {
     "id": "14422285224452142",
@@ -3656,7 +3656,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 16,
       "coins": 7
     },
-    "url": "https://scys.com/articleDetail/14422285224452142"
+    "url": "https://scys.com/articleDetail/xq_topic/14422285224452142"
   },
   {
     "id": "45811224512421818",
@@ -3676,7 +3676,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 45,
       "coins": 11
     },
-    "url": "https://scys.com/articleDetail/45811224512421818"
+    "url": "https://scys.com/articleDetail/xq_topic/45811224512421818"
   },
   {
     "id": "45811224845518518",
@@ -3696,7 +3696,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 145,
       "coins": 123
     },
-    "url": "https://scys.com/articleDetail/45811224845518518"
+    "url": "https://scys.com/articleDetail/xq_topic/45811224845518518"
   },
   {
     "id": "82811421442418222",
@@ -3715,7 +3715,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 2,
       "coins": 0
     },
-    "url": "https://scys.com/articleDetail/82811421442418222"
+    "url": "https://scys.com/articleDetail/xq_topic/82811421442418222"
   },
   {
     "id": "45811251841818288",
@@ -3734,7 +3734,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 13,
       "coins": 3
     },
-    "url": "https://scys.com/articleDetail/45811251841818288"
+    "url": "https://scys.com/articleDetail/xq_topic/45811251841818288"
   },
   {
     "id": "55188458218244184",
@@ -3754,7 +3754,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 12,
       "coins": 1
     },
-    "url": "https://scys.com/articleDetail/55188458218244184"
+    "url": "https://scys.com/articleDetail/xq_topic/55188458218244184"
   },
   {
     "id": "14588141884581452",
@@ -3775,7 +3775,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 12,
       "coins": 12
     },
-    "url": "https://scys.com/articleDetail/14588141884581452"
+    "url": "https://scys.com/articleDetail/xq_topic/14588141884581452"
   },
   {
     "id": "22811422811881821",
@@ -3795,7 +3795,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 5,
       "coins": 15
     },
-    "url": "https://scys.com/articleDetail/22811422811881821"
+    "url": "https://scys.com/articleDetail/xq_topic/22811422811881821"
   },
   {
     "id": "14588144582228242",
@@ -3814,7 +3814,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 6,
       "coins": 13
     },
-    "url": "https://scys.com/articleDetail/14588144582228242"
+    "url": "https://scys.com/articleDetail/xq_topic/14588144582228242"
   },
   {
     "id": "22811422554558521",
@@ -3834,7 +3834,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 5,
       "coins": 4
     },
-    "url": "https://scys.com/articleDetail/22811422554558521"
+    "url": "https://scys.com/articleDetail/xq_topic/22811422554558521"
   },
   {
     "id": "22811428182521481",
@@ -3855,7 +3855,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 0,
       "coins": 1
     },
-    "url": "https://scys.com/articleDetail/22811428182521481"
+    "url": "https://scys.com/articleDetail/xq_topic/22811428182521481"
   },
   {
     "id": "14588145512555422",
@@ -3875,7 +3875,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 147,
       "coins": 168
     },
-    "url": "https://scys.com/articleDetail/14588145512555422"
+    "url": "https://scys.com/articleDetail/xq_topic/14588145512555422"
   },
   {
     "id": "45811258851224228",
@@ -3896,7 +3896,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 2,
       "coins": 4
     },
-    "url": "https://scys.com/articleDetail/45811258851224228"
+    "url": "https://scys.com/articleDetail/xq_topic/45811258851224228"
   },
   {
     "id": "82811428882514452",
@@ -3919,7 +3919,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 5,
       "coins": 0
     },
-    "url": "https://scys.com/articleDetail/82811428882514452"
+    "url": "https://scys.com/articleDetail/xq_topic/82811428882514452"
   },
   {
     "id": "14588142855415212",
@@ -3938,7 +3938,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 2,
       "coins": 0
     },
-    "url": "https://scys.com/articleDetail/14588142855415212"
+    "url": "https://scys.com/articleDetail/xq_topic/14588142855415212"
   },
   {
     "id": "82811425154588152",
@@ -3957,7 +3957,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 7,
       "coins": 4
     },
-    "url": "https://scys.com/articleDetail/82811425154588152"
+    "url": "https://scys.com/articleDetail/xq_topic/82811425154588152"
   },
   {
     "id": "14588142824551412",
@@ -3976,7 +3976,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 10,
       "coins": 4
     },
-    "url": "https://scys.com/articleDetail/14588142824551412"
+    "url": "https://scys.com/articleDetail/xq_topic/14588142824551412"
   },
   {
     "id": "14588142112242252",
@@ -3996,7 +3996,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 20,
       "coins": 52
     },
-    "url": "https://scys.com/articleDetail/14588142112242252"
+    "url": "https://scys.com/articleDetail/xq_topic/14588142112242252"
   },
   {
     "id": "14588154255112852",
@@ -4016,7 +4016,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 59,
       "coins": 22
     },
-    "url": "https://scys.com/articleDetail/14588154255112852"
+    "url": "https://scys.com/articleDetail/xq_topic/14588154255112852"
   },
   {
     "id": "82811488288522812",
@@ -4037,7 +4037,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 2,
       "coins": 3
     },
-    "url": "https://scys.com/articleDetail/82811488288522812"
+    "url": "https://scys.com/articleDetail/xq_topic/82811488288522812"
   },
   {
     "id": "82811488281444112",
@@ -4057,7 +4057,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 2,
       "coins": 0
     },
-    "url": "https://scys.com/articleDetail/82811488281444112"
+    "url": "https://scys.com/articleDetail/xq_topic/82811488281444112"
   },
   {
     "id": "14588155455254182",
@@ -4076,7 +4076,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 2,
       "coins": 3
     },
-    "url": "https://scys.com/articleDetail/14588155455254182"
+    "url": "https://scys.com/articleDetail/xq_topic/14588155455254182"
   },
   {
     "id": "45811288412552158",
@@ -4095,7 +4095,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 6,
       "coins": 1
     },
-    "url": "https://scys.com/articleDetail/45811288412552158"
+    "url": "https://scys.com/articleDetail/xq_topic/45811288412552158"
   },
   {
     "id": "45811284112484518",
@@ -4116,7 +4116,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 54,
       "coins": 64
     },
-    "url": "https://scys.com/articleDetail/45811284112484518"
+    "url": "https://scys.com/articleDetail/xq_topic/45811284112484518"
   },
   {
     "id": "45811284124225888",
@@ -4136,7 +4136,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 1,
       "coins": 11
     },
-    "url": "https://scys.com/articleDetail/45811284124225888"
+    "url": "https://scys.com/articleDetail/xq_topic/45811284124225888"
   },
   {
     "id": "45811284525411518",
@@ -4156,7 +4156,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 5,
       "coins": 2
     },
-    "url": "https://scys.com/articleDetail/45811284525411518"
+    "url": "https://scys.com/articleDetail/xq_topic/45811284525411518"
   },
   {
     "id": "14588152454242512",
@@ -4177,7 +4177,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 0,
       "coins": 0
     },
-    "url": "https://scys.com/articleDetail/14588152454242512"
+    "url": "https://scys.com/articleDetail/xq_topic/14588152454242512"
   },
   {
     "id": "55188412144882244",
@@ -4199,7 +4199,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 425,
       "coins": 490
     },
-    "url": "https://scys.com/articleDetail/55188412144882244"
+    "url": "https://scys.com/articleDetail/xq_topic/55188412144882244"
   },
   {
     "id": "14588152225524222",
@@ -4218,7 +4218,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 1,
       "coins": 1
     },
-    "url": "https://scys.com/articleDetail/14588152225524222"
+    "url": "https://scys.com/articleDetail/xq_topic/14588152225524222"
   },
   {
     "id": "45811284444414588",
@@ -4237,7 +4237,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 1,
       "coins": 6
     },
-    "url": "https://scys.com/articleDetail/45811284444414588"
+    "url": "https://scys.com/articleDetail/xq_topic/45811284444414588"
   },
   {
     "id": "14588128485248482",
@@ -4258,7 +4258,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 49,
       "coins": 17
     },
-    "url": "https://scys.com/articleDetail/14588128485248482"
+    "url": "https://scys.com/articleDetail/xq_topic/14588128485248482"
   },
   {
     "id": "22811451258552521",
@@ -4279,7 +4279,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 9,
       "coins": 4
     },
-    "url": "https://scys.com/articleDetail/22811451258552521"
+    "url": "https://scys.com/articleDetail/xq_topic/22811451258552521"
   },
   {
     "id": "82811451255528412",
@@ -4299,7 +4299,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 4,
       "coins": 1
     },
-    "url": "https://scys.com/articleDetail/82811451255528412"
+    "url": "https://scys.com/articleDetail/xq_topic/82811451255528412"
   },
   {
     "id": "22811451824522281",
@@ -4319,7 +4319,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 19,
       "coins": 34
     },
-    "url": "https://scys.com/articleDetail/22811451824522281"
+    "url": "https://scys.com/articleDetail/xq_topic/22811451824522281"
   },
   {
     "id": "82811454222424522",
@@ -4342,7 +4342,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 40,
       "coins": 76
     },
-    "url": "https://scys.com/articleDetail/82811454222424522"
+    "url": "https://scys.com/articleDetail/xq_topic/82811454222424522"
   },
   {
     "id": "22811454284584521",
@@ -4363,7 +4363,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 20,
       "coins": 2
     },
-    "url": "https://scys.com/articleDetail/22811454284584521"
+    "url": "https://scys.com/articleDetail/xq_topic/22811454284584521"
   },
   {
     "id": "82811454814188452",
@@ -4382,7 +4382,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 2,
       "coins": 0
     },
-    "url": "https://scys.com/articleDetail/82811454814188452"
+    "url": "https://scys.com/articleDetail/xq_topic/82811454814188452"
   },
   {
     "id": "14588121581185882",
@@ -4402,7 +4402,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 23,
       "coins": 3
     },
-    "url": "https://scys.com/articleDetail/14588121581185882"
+    "url": "https://scys.com/articleDetail/xq_topic/14588121581185882"
   },
   {
     "id": "14588121545825242",
@@ -4422,7 +4422,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 11,
       "coins": 1
     },
-    "url": "https://scys.com/articleDetail/14588121545825242"
+    "url": "https://scys.com/articleDetail/xq_topic/14588121545825242"
   },
   {
     "id": "14588481414542442",
@@ -4446,7 +4446,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 86,
       "coins": 23
     },
-    "url": "https://scys.com/articleDetail/14588481414542442"
+    "url": "https://scys.com/articleDetail/xq_topic/14588481414542442"
   },
   {
     "id": "82811214455552252",
@@ -4467,7 +4467,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 7,
       "coins": 0
     },
-    "url": "https://scys.com/articleDetail/82811214455552252"
+    "url": "https://scys.com/articleDetail/xq_topic/82811214455552252"
   },
   {
     "id": "14588124218282582",
@@ -4490,7 +4490,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 12,
       "coins": 1
     },
-    "url": "https://scys.com/articleDetail/14588124218282582"
+    "url": "https://scys.com/articleDetail/xq_topic/14588124218282582"
   },
   {
     "id": "45811245854285448",
@@ -4514,7 +4514,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 13,
       "coins": 3
     },
-    "url": "https://scys.com/articleDetail/45811245854285448"
+    "url": "https://scys.com/articleDetail/xq_topic/45811245854285448"
   },
   {
     "id": "82811452155481552",
@@ -4535,7 +4535,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 0,
       "coins": 0
     },
-    "url": "https://scys.com/articleDetail/82811452155481552"
+    "url": "https://scys.com/articleDetail/xq_topic/82811452155481552"
   },
   {
     "id": "82811454511224252",
@@ -4555,7 +4555,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 2,
       "coins": 0
     },
-    "url": "https://scys.com/articleDetail/82811454511224252"
+    "url": "https://scys.com/articleDetail/xq_topic/82811454511224252"
   },
   {
     "id": "22811452515421841",
@@ -4576,7 +4576,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 13,
       "coins": 12
     },
-    "url": "https://scys.com/articleDetail/22811452515421841"
+    "url": "https://scys.com/articleDetail/xq_topic/22811452515421841"
   },
   {
     "id": "45811245421185848",
@@ -4599,7 +4599,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 67,
       "coins": 15
     },
-    "url": "https://scys.com/articleDetail/45811245421185848"
+    "url": "https://scys.com/articleDetail/xq_topic/45811245421185848"
   },
   {
     "id": "82811214451821812",
@@ -4618,7 +4618,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 10,
       "coins": 8
     },
-    "url": "https://scys.com/articleDetail/82811214451821812"
+    "url": "https://scys.com/articleDetail/xq_topic/82811214451821812"
   },
   {
     "id": "82811214212852282",
@@ -4638,7 +4638,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 266,
       "coins": 157
     },
-    "url": "https://scys.com/articleDetail/82811214212852282"
+    "url": "https://scys.com/articleDetail/xq_topic/82811214212852282"
   },
   {
     "id": "14588481422152582",
@@ -4659,7 +4659,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 24,
       "coins": 6
     },
-    "url": "https://scys.com/articleDetail/14588481422152582"
+    "url": "https://scys.com/articleDetail/xq_topic/14588481422152582"
   },
   {
     "id": "82811214528451282",
@@ -4681,7 +4681,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 19,
       "coins": 4
     },
-    "url": "https://scys.com/articleDetail/82811214528451282"
+    "url": "https://scys.com/articleDetail/xq_topic/82811214528451282"
   },
   {
     "id": "22811214528421251",
@@ -4703,7 +4703,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 3,
       "coins": 9
     },
-    "url": "https://scys.com/articleDetail/22811214528421251"
+    "url": "https://scys.com/articleDetail/xq_topic/22811214528421251"
   },
   {
     "id": "45811522258114588",
@@ -4723,7 +4723,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 0,
       "coins": 0
     },
-    "url": "https://scys.com/articleDetail/45811522258114588"
+    "url": "https://scys.com/articleDetail/xq_topic/45811522258114588"
   },
   {
     "id": "55188582154222844",
@@ -4745,7 +4745,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 35,
       "coins": 8
     },
-    "url": "https://scys.com/articleDetail/55188582154222844"
+    "url": "https://scys.com/articleDetail/xq_topic/55188582154222844"
   },
   {
     "id": "45811514584141588",
@@ -4765,7 +4765,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 8,
       "coins": 0
     },
-    "url": "https://scys.com/articleDetail/45811514584141588"
+    "url": "https://scys.com/articleDetail/xq_topic/45811514584141588"
   },
   {
     "id": "45811515114284818",
@@ -4786,7 +4786,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 0,
       "coins": 0
     },
-    "url": "https://scys.com/articleDetail/45811515114284818"
+    "url": "https://scys.com/articleDetail/xq_topic/45811515114284818"
   },
   {
     "id": "45811515112112858",
@@ -4806,7 +4806,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 0,
       "coins": 0
     },
-    "url": "https://scys.com/articleDetail/45811515112112858"
+    "url": "https://scys.com/articleDetail/xq_topic/45811515112112858"
   },
   {
     "id": "14588482858582182",
@@ -4826,7 +4826,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 4,
       "coins": 0
     },
-    "url": "https://scys.com/articleDetail/14588482858582182"
+    "url": "https://scys.com/articleDetail/xq_topic/14588482858582182"
   },
   {
     "id": "45811514215545288",
@@ -4846,7 +4846,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 22,
       "coins": 14
     },
-    "url": "https://scys.com/articleDetail/45811514215545288"
+    "url": "https://scys.com/articleDetail/xq_topic/45811514215545288"
   },
   {
     "id": "22811212218524251",
@@ -4865,7 +4865,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 0,
       "coins": 0
     },
-    "url": "https://scys.com/articleDetail/22811212218524251"
+    "url": "https://scys.com/articleDetail/xq_topic/22811212218524251"
   },
   {
     "id": "14588484481558422",
@@ -4885,7 +4885,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 12,
       "coins": 1
     },
-    "url": "https://scys.com/articleDetail/14588484481558422"
+    "url": "https://scys.com/articleDetail/xq_topic/14588484481558422"
   },
   {
     "id": "45811515825445848",
@@ -4905,7 +4905,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 42,
       "coins": 44
     },
-    "url": "https://scys.com/articleDetail/45811515825445848"
+    "url": "https://scys.com/articleDetail/xq_topic/45811515825445848"
   },
   {
     "id": "45811515851245558",
@@ -4925,7 +4925,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 160,
       "coins": 33
     },
-    "url": "https://scys.com/articleDetail/45811515851245558"
+    "url": "https://scys.com/articleDetail/xq_topic/45811515851245558"
   },
   {
     "id": "14588484545454242",
@@ -4946,7 +4946,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 111,
       "coins": 14
     },
-    "url": "https://scys.com/articleDetail/14588484545454242"
+    "url": "https://scys.com/articleDetail/xq_topic/14588484545454242"
   },
   {
     "id": "22811218152445411",
@@ -4966,7 +4966,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 199,
       "coins": 86
     },
-    "url": "https://scys.com/articleDetail/22811218152445411"
+    "url": "https://scys.com/articleDetail/xq_topic/22811218152445411"
   },
   {
     "id": "82811218881425242",
@@ -4985,7 +4985,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 7,
       "coins": 0
     },
-    "url": "https://scys.com/articleDetail/82811218881425242"
+    "url": "https://scys.com/articleDetail/xq_topic/82811218881425242"
   },
   {
     "id": "82811218888554522",
@@ -5005,7 +5005,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 13,
       "coins": 22
     },
-    "url": "https://scys.com/articleDetail/82811218888554522"
+    "url": "https://scys.com/articleDetail/xq_topic/82811218888554522"
   },
   {
     "id": "45811514115412128",
@@ -5026,7 +5026,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 191,
       "coins": 72
     },
-    "url": "https://scys.com/articleDetail/45811514115412128"
+    "url": "https://scys.com/articleDetail/xq_topic/45811514115412128"
   },
   {
     "id": "14588482885854152",
@@ -5048,7 +5048,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 40,
       "coins": 17
     },
-    "url": "https://scys.com/articleDetail/14588482885854152"
+    "url": "https://scys.com/articleDetail/xq_topic/14588482885854152"
   },
   {
     "id": "82811215118154182",
@@ -5069,7 +5069,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 70,
       "coins": 14
     },
-    "url": "https://scys.com/articleDetail/82811215118154182"
+    "url": "https://scys.com/articleDetail/xq_topic/82811215118154182"
   },
   {
     "id": "14588482882225882",
@@ -5090,7 +5090,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 14,
       "coins": 4
     },
-    "url": "https://scys.com/articleDetail/14588482882225882"
+    "url": "https://scys.com/articleDetail/xq_topic/14588482882225882"
   },
   {
     "id": "82811215188128552",
@@ -5109,7 +5109,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 1,
       "coins": 1
     },
-    "url": "https://scys.com/articleDetail/82811215188128552"
+    "url": "https://scys.com/articleDetail/xq_topic/82811215188128552"
   },
   {
     "id": "14588482821221422",
@@ -5129,7 +5129,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 18,
       "coins": 4
     },
-    "url": "https://scys.com/articleDetail/14588482821221422"
+    "url": "https://scys.com/articleDetail/xq_topic/14588482821221422"
   },
   {
     "id": "14588482824888522",
@@ -5151,7 +5151,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 1,
       "coins": 1
     },
-    "url": "https://scys.com/articleDetail/14588482824888522"
+    "url": "https://scys.com/articleDetail/xq_topic/14588482824888522"
   },
   {
     "id": "55188582825884484",
@@ -5173,7 +5173,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 0,
       "coins": 0
     },
-    "url": "https://scys.com/articleDetail/55188582825884484"
+    "url": "https://scys.com/articleDetail/xq_topic/55188582825884484"
   },
   {
     "id": "82811215412824882",
@@ -5192,7 +5192,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 40,
       "coins": 11
     },
-    "url": "https://scys.com/articleDetail/82811215412824882"
+    "url": "https://scys.com/articleDetail/xq_topic/82811215412824882"
   },
   {
     "id": "14588482112118512",
@@ -5211,7 +5211,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 0,
       "coins": 5
     },
-    "url": "https://scys.com/articleDetail/14588482112118512"
+    "url": "https://scys.com/articleDetail/xq_topic/14588482112118512"
   },
   {
     "id": "22811215818181511",
@@ -5232,7 +5232,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 13,
       "coins": 11
     },
-    "url": "https://scys.com/articleDetail/22811215818181511"
+    "url": "https://scys.com/articleDetail/xq_topic/22811215818181511"
   },
   {
     "id": "82811221112188852",
@@ -5252,7 +5252,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 14,
       "coins": 17
     },
-    "url": "https://scys.com/articleDetail/82811221112188852"
+    "url": "https://scys.com/articleDetail/xq_topic/82811221112188852"
   },
   {
     "id": "45811551151224148",
@@ -5272,7 +5272,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 8,
       "coins": 4
     },
-    "url": "https://scys.com/articleDetail/45811551151224148"
+    "url": "https://scys.com/articleDetail/xq_topic/45811551151224148"
   },
   {
     "id": "22811221155545411",
@@ -5291,7 +5291,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 0,
       "coins": 0
     },
-    "url": "https://scys.com/articleDetail/22811221155545411"
+    "url": "https://scys.com/articleDetail/xq_topic/22811221155545411"
   },
   {
     "id": "55188558545818114",
@@ -5310,7 +5310,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 5,
       "coins": 7
     },
-    "url": "https://scys.com/articleDetail/55188558545818114"
+    "url": "https://scys.com/articleDetail/xq_topic/55188558545818114"
   },
   {
     "id": "45811552155115288",
@@ -5330,7 +5330,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 12,
       "coins": 8
     },
-    "url": "https://scys.com/articleDetail/45811552155115288"
+    "url": "https://scys.com/articleDetail/xq_topic/45811552155115288"
   },
   {
     "id": "82811224815552122",
@@ -5349,7 +5349,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 6,
       "coins": 6
     },
-    "url": "https://scys.com/articleDetail/82811224815552122"
+    "url": "https://scys.com/articleDetail/xq_topic/82811224815552122"
   },
   {
     "id": "22811222448122481",
@@ -5373,7 +5373,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 378,
       "coins": 218
     },
-    "url": "https://scys.com/articleDetail/22811222448122481"
+    "url": "https://scys.com/articleDetail/xq_topic/22811222448122481"
   },
   {
     "id": "45811555845844888",
@@ -5392,7 +5392,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 5,
       "coins": 12
     },
-    "url": "https://scys.com/articleDetail/45811555845844888"
+    "url": "https://scys.com/articleDetail/xq_topic/45811555845844888"
   },
   {
     "id": "22811222515158521",
@@ -5413,7 +5413,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 17,
       "coins": 7
     },
-    "url": "https://scys.com/articleDetail/22811222515158521"
+    "url": "https://scys.com/articleDetail/xq_topic/22811222515158521"
   },
   {
     "id": "22811222525818821",
@@ -5432,7 +5432,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 3,
       "coins": 0
     },
-    "url": "https://scys.com/articleDetail/22811222525818821"
+    "url": "https://scys.com/articleDetail/xq_topic/22811222525818821"
   },
   {
     "id": "22811228185112811",
@@ -5451,7 +5451,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 1,
       "coins": 0
     },
-    "url": "https://scys.com/articleDetail/22811228185112811"
+    "url": "https://scys.com/articleDetail/xq_topic/22811228185112811"
   },
   {
     "id": "45811558255825248",
@@ -5474,7 +5474,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 15,
       "coins": 13
     },
-    "url": "https://scys.com/articleDetail/45811558255825248"
+    "url": "https://scys.com/articleDetail/xq_topic/45811558255825248"
   },
   {
     "id": "22811228215814121",
@@ -5493,7 +5493,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 11,
       "coins": 10
     },
-    "url": "https://scys.com/articleDetail/22811228215814121"
+    "url": "https://scys.com/articleDetail/xq_topic/22811228215814121"
   },
   {
     "id": "55188552544581224",
@@ -5513,7 +5513,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 9,
       "coins": 7
     },
-    "url": "https://scys.com/articleDetail/55188552544581224"
+    "url": "https://scys.com/articleDetail/xq_topic/55188552544581224"
   },
   {
     "id": "82811225458251252",
@@ -5535,7 +5535,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 1,
       "coins": 0
     },
-    "url": "https://scys.com/articleDetail/82811225458251252"
+    "url": "https://scys.com/articleDetail/xq_topic/82811225458251252"
   },
   {
     "id": "45811554212511588",
@@ -5555,7 +5555,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 6,
       "coins": 0
     },
-    "url": "https://scys.com/articleDetail/45811554212511588"
+    "url": "https://scys.com/articleDetail/xq_topic/45811554212511588"
   },
   {
     "id": "45811558885154418",
@@ -5576,7 +5576,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 160,
       "coins": 119
     },
-    "url": "https://scys.com/articleDetail/45811558885154418"
+    "url": "https://scys.com/articleDetail/xq_topic/45811558885154418"
   },
   {
     "id": "55188551252222144",
@@ -5596,7 +5596,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 25,
       "coins": 65
     },
-    "url": "https://scys.com/articleDetail/55188551252222144"
+    "url": "https://scys.com/articleDetail/xq_topic/55188551252222144"
   },
   {
     "id": "55188551225488484",
@@ -5615,7 +5615,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 13,
       "coins": 56
     },
-    "url": "https://scys.com/articleDetail/55188551225488484"
+    "url": "https://scys.com/articleDetail/xq_topic/55188551225488484"
   },
   {
     "id": "55188552484854144",
@@ -5634,7 +5634,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 12,
       "coins": 8
     },
-    "url": "https://scys.com/articleDetail/55188552484854144"
+    "url": "https://scys.com/articleDetail/xq_topic/55188552484854144"
   },
   {
     "id": "22811225412182811",
@@ -5653,7 +5653,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 0,
       "coins": 3
     },
-    "url": "https://scys.com/articleDetail/22811225412182811"
+    "url": "https://scys.com/articleDetail/xq_topic/22811225412182811"
   },
   {
     "id": "55188552421544144",
@@ -5673,7 +5673,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 50,
       "coins": 11
     },
-    "url": "https://scys.com/articleDetail/55188552421544144"
+    "url": "https://scys.com/articleDetail/xq_topic/55188552421544144"
   },
   {
     "id": "82811254421854812",
@@ -5692,7 +5692,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 34,
       "coins": 39
     },
-    "url": "https://scys.com/articleDetail/82811254421854812"
+    "url": "https://scys.com/articleDetail/xq_topic/82811254421854812"
   },
   {
     "id": "82811252225154542",
@@ -5714,7 +5714,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 14,
       "coins": 3
     },
-    "url": "https://scys.com/articleDetail/82811252225154542"
+    "url": "https://scys.com/articleDetail/xq_topic/82811252225154542"
   },
   {
     "id": "55188185442452524",
@@ -5734,7 +5734,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 36,
       "coins": 71
     },
-    "url": "https://scys.com/articleDetail/55188185442452524"
+    "url": "https://scys.com/articleDetail/xq_topic/55188185442452524"
   },
   {
     "id": "22811812841458211",
@@ -5753,7 +5753,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 3,
       "coins": 17
     },
-    "url": "https://scys.com/articleDetail/22811812841458211"
+    "url": "https://scys.com/articleDetail/xq_topic/22811812841458211"
   },
   {
     "id": "82811818411588512",
@@ -5772,7 +5772,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 7,
       "coins": 3
     },
-    "url": "https://scys.com/articleDetail/82811818411588512"
+    "url": "https://scys.com/articleDetail/xq_topic/82811818411588512"
   },
   {
     "id": "14588585184855582",
@@ -5791,7 +5791,7 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 0,
       "coins": 0
     },
-    "url": "https://scys.com/articleDetail/14588585184855582"
+    "url": "https://scys.com/articleDetail/xq_topic/14588585184855582"
   },
   {
     "id": "14588585412228242",
@@ -5810,6 +5810,6 @@ window.TODAY_SHENGCAI_YIREN_POSTS = [
       "favorites": 13,
       "coins": 8
     },
-    "url": "https://scys.com/articleDetail/14588585412228242"
+    "url": "https://scys.com/articleDetail/xq_topic/14588585412228242"
   }
 ];
